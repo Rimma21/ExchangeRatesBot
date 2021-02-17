@@ -1,0 +1,8 @@
+OKEN='1604148228:AAEc0iHU4wtKxB4sCjq6TrE4MQLQxWzYULY'
+
+
+keys = {
+     'доллар': 'USD',
+     'евро': 'EUR',
+     'рубль': 'RUB',
+}
